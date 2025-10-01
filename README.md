@@ -24,7 +24,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Dear-ReGui/re
 
 ###
 
-<p align="left">1. Open your executor and inject it<br><br>2. Copy:<br>loadstring<br><br>3. Execute it</p>
+<p align="left">1. Open your executor and inject it<br><br>2. Copy loadstring upper<br><br>3. Execute it</p>
 
 ###
 
