@@ -18,7 +18,7 @@
 
 ###
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Dear-ReGui/refs/heads/main/ReGui.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/narychkin/Octopus-Ui/refs/heads/main/Octopus.lua'))()
 ```
 <h2 align="left">How to use it:</h2>
 
