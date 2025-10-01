@@ -17,12 +17,14 @@
 <p align="left">Octopus ui is a enchanted in game roblox executor ui using imgui style.</p>
 
 ###
-
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Dear-ReGui/refs/heads/main/ReGui.lua'))()
+```
 <h2 align="left">How to use it:</h2>
 
 ###
 
-<p align="left">1. Open your executor and inject it<br><br>2. Copy:<br><br>```lua loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Dear-ReGui/refs/heads/main/ReGui.lua'))()<br><br>3. Execute it</p>
+<p align="left">1. Open your executor and inject it<br><br>2. Cop:<br><br> loadstring<br><br>3. Execute it</p>
 
 ###
 
