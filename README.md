@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">1. Open your executor and inject it<br><br>2. Copy:<br><br>loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Dear-ReGui/refs/heads/main/ReGui.lua'))()<br><br>3. Execute it</p>
+<p align="left">1. Open your executor and inject it<br><br>2. Copy:<br><br>```lua loadstring(game:HttpGet('https://raw.githubusercontent.com/depthso/Dear-ReGui/refs/heads/main/ReGui.lua'))()<br><br>3. Execute it</p>
 
 ###
 
